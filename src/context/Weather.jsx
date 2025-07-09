@@ -62,7 +62,5 @@ export const WeatherProvider=(props)=>{
         </WeatherContext.Provider>
 
     )
-    
-
 
 };
